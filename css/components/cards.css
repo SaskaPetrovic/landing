@@ -30,5 +30,6 @@
 }
 
 .card img {
-  width: 150px;
+  width: auto;
+  height: 200px;
 }
